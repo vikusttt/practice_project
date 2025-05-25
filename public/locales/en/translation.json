@@ -1,0 +1,125 @@
+{
+  "navigation": {
+    "main_items": "Main items",
+    "check_spelling": "Check spelling",
+    "explore": "Explore",
+    "all_checks_list": "All checks list",
+    "random_check": "Random Check",
+    "random_expiring_check": "Random Expiring Check",
+    "longest_error_free": "Longest Error-Free",
+    "statistics": "Statistics"
+  },
+  "spell_checker": {
+    "title": "Checks list",
+    "input_placeholder": "Text...",
+    "output_placeholder": "Text...",
+    "check_button": "Check",
+    "share_button": "Share",
+    "share_tooltip": "Check the text first to enable sharing",
+    "languages": {
+      "english": "English",
+      "ukrainian": "Ukrainian",
+      "chinese": "中文 (Traditional Chinese)"
+    }
+  },
+  "share_dialog": {
+    "title": "Share Spell Check Result",
+    "description": "This spell check result can be shared with anyone who has the link. The link will automatically expire after the selected time period.",
+    "link_expiration": "Link Expiration",
+    "shareable_link": "Shareable Link",
+    "copy_link": "Copy Link",
+    "link_copied": "Link copied to clipboard",
+    "link_generated": "Link generated! Anyone with this link can view this spell check result until it expires.",
+    "close": "Close",
+    "generate_link": "Generate Link",
+    "expiration_options": {
+      "1h": "1 hour - Expires at {{time}}",
+      "3d": "3 days - Expires on {{date}}",
+      "7d": "7 days - Expires on {{date}}",
+      "1m": "1 month - Expires on {{date}}",
+      "3m": "3 months - Expires on {{date}}"
+    }
+  },
+  "statistics": {
+    "title": "Expiring Shared Checks Statistics",
+    "expiringInHour": "Expiring in 1 hour",
+    "expiringInDay": "Expiring in 24 hours",
+    "expiringInWeek": "Expiring in 1 week",
+    "expiringChecks": "Expiring checks:"
+  },
+  "spellChecks": {
+    "title": "Checks list",
+    "originalText": "Original Text",
+    "status": "Status",
+    "ok": "Ok",
+    "errors": "Errors",
+    "language": "Language",
+    "suggestedCorrections": "Suggested Corrections",
+    "noCorrectionsNeeded": "No corrections needed",
+    "created": "Created",
+    "expiresAt": "Expires At",
+    "author": "Author",
+    "anonymous": "Anonymous",
+    "noChecksFound": "No checks found.",
+    "delete": "Delete",
+    "cancel": "Cancel"
+  },
+  "viewCheck": {
+    "metaTitle": "Spell Check Result",
+    "metaDescription": "View spell check results for {{text}}",
+    "title": "Spell Check Viewer",
+    "originalText": "Original Text",
+    "correctedText": "Corrected Text",
+    "copy": "Copy",
+    "noErrors": "No spelling errors found in this text! The text is correctly spelled in {{language}}.",
+    "language": "Language",
+    "status": "Status",
+    "noErrorsFound": "No errors found",
+    "correctionsSuggested": "Corrections suggested",
+    "author": "Author",
+    "anonymous": "Anonymous",
+    "expiresIn": "Expires in",
+    "textCopied": "Text copied to clipboard",
+    "english": "English",
+    "ukrainian": "Ukrainian"
+  },
+  "randomExpiringCheck": {
+    "title": "Random Expiring Check",
+    "timeRange": "Time Range",
+    "expiringInHour": "Expiring in 1 hour",
+    "expiringInDay": "Expiring in 24 hours",
+    "expiringInWeek": "Expiring in 7 days",
+    "oneHour": "1 Hour",
+    "twentyFourHours": "24 Hours",
+    "sevenDays": "7 Days",
+    "noChecksFound": "No spell checks found expiring in the selected time range.",
+    "originalText": "Original Text",
+    "correctedText": "Corrected Text",
+    "details": "Details",
+    "language": "Language",
+    "containsErrors": "Contains Errors",
+    "no": "No",
+    "yes": "Yes",
+    "expires": "Expires"
+  },
+  "longestErrorFreeCheck": {
+    "title": "Longest Error-Free Text",
+    "noErrorFreeChecks": "No error-free spell checks found.",
+    "text": "Text ({{length}} characters):",
+    "details": "Details",
+    "language": "Language",
+    "created": "Created"
+  },
+  "randomCheck": {
+    "title": "Random Spell Check",
+    "noChecksFound": "No spell checks found.",
+    "originalText": "Original Text",
+    "correctedText": "Corrected Text",
+    "details": "Details",
+    "language": "Language",
+    "containsErrors": "Contains Errors",
+    "no": "No",
+    "yes": "Yes",
+    "created": "Created"
+  }
+}

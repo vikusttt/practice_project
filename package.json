@@ -1,0 +1,43 @@
+{
+  "name": "spell-checker",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "preview": "vite preview",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@mui/icons-material": "^7",
+    "@mui/material": "^7",
+    "@mui/x-charts": "^8.3.1",
+    "@mui/x-data-grid": "^8.3.1",
+    "@mui/x-date-pickers": "^8.3.1",
+    "@toolpad/core": "^0.14.0",
+    "@types/react-helmet": "^6.1.11",
+    "date-fns": "^4.1.0",
+    "dictionary-en": "^4.0.0",
+    "dictionary-uk": "^4.0.0",
+    "firebase": "^11",
+    "i18next": "^25.2.0",
+    "i18next-browser-languagedetector": "^8.1.0",
+    "i18next-http-backend": "^3.0.2",
+    "nspell": "^2.1.5",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-helmet": "^6.1.0",
+    "react-i18next": "^15.5.1",
+    "react-router": "^7",
+    "react-router-dom": "^7.6.0"
+  },
+  "devDependencies": {
+    "@types/nspell": "^2.1.6",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.2",
+    "typescript": "^5",
+    "vite": "^5.4.8"
+  }
+}

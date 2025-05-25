@@ -1,0 +1,126 @@
+{
+  "navigation": {
+    "main_items": "主要項目",
+    "check_spelling": "拼寫檢查",
+    "explore": "探索",
+    "all_checks_list": "所有檢查清單",
+    "random_check": "隨機檢查",
+    "random_expiring_check": "隨機即將過期檢查",
+    "longest_error_free": "最長無錯誤文本",
+    "statistics": "統計數據"
+  },
+  "spell_checker": {
+    "title": "檢查清單",
+    "input_placeholder": "文本...",
+    "output_placeholder": "文本...",
+    "check_button": "檢查",
+    "share_button": "分享",
+    "share_tooltip": "請先檢查文本以啟用分享功能",
+    "languages": {
+      "english": "英文",
+      "ukrainian": "烏克蘭文",
+      "chinese": "中文 (繁體中文)"
+    }
+  },
+  "share_dialog": {
+    "title": "分享拼寫檢查結果",
+    "description": "任何擁有此連結的人都可以查看此拼寫檢查結果。連結將在所選時間段後自動過期。",
+    "link_expiration": "連結過期時間",
+    "shareable_link": "可分享連結",
+    "copy_link": "複製連結",
+    "link_copied": "連結已複製到剪貼簿",
+    "link_generated": "連結已生成！擁有此連結的任何人都可以查看此拼寫檢查結果，直到其過期。",
+    "close": "關閉",
+    "generate_link": "生成連結",
+    "expiration_options": {
+      "1h": "1小時 - 過期於 {{time}}",
+      "3d": "3天 - 過期於 {{date}}",
+      "7d": "7天 - 過期於 {{date}}",
+      "1m": "1個月 - 過期於 {{date}}",
+      "3m": "3個月 - 過期於 {{date}}"
+    }
+  },
+  "statistics": {
+    "title": "即將過期的共享檢查統計",
+    "expiringInHour": "1小時內過期",
+    "expiringInDay": "24小時內過期",
+    "expiringInWeek": "1週內過期",
+    "expiringChecks": "即將過期的檢查："
+  },
+  "spellChecks": {
+    "title": "檢查清單",
+    "originalText": "原始文本",
+    "status": "狀態",
+    "ok": "正確",
+    "errors": "錯誤",
+    "language": "語言",
+    "suggestedCorrections": "建議的更正",
+    "noCorrectionsNeeded": "無需更正",
+    "created": "創建時間",
+    "expiresAt": "過期時間",
+    "author": "作者",
+    "anonymous": "匿名",
+    "noChecksFound": "未找到檢查。",
+    "delete": "刪除",
+    "cancel": "取消"
+  },
+  "viewCheck": {
+    "metaTitle": "拼寫檢查結果",
+    "metaDescription": "查看 {{text}} 的拼寫檢查結果",
+    "title": "拼寫檢查查看器",
+    "originalText": "原始文本",
+    "correctedText": "更正後文本",
+    "copy": "複製",
+    "noErrors": "此文本中未發現拼寫錯誤！文本在{{language}}中拼寫正確。",
+    "language": "語言",
+    "status": "狀態",
+    "noErrorsFound": "未發現錯誤",
+    "correctionsSuggested": "已提供更正建議",
+    "author": "作者",
+    "anonymous": "匿名",
+    "expiresIn": "過期時間",
+    "textCopied": "文本已複製到剪貼簿",
+    "english": "英文",
+    "ukrainian": "烏克蘭文",
+    "chinese": "中文 (繁體中文)"
+  },
+  "randomExpiringCheck": {
+    "title": "隨機即將過期檢查",
+    "timeRange": "時間範圍",
+    "expiringInHour": "1小時內過期",
+    "expiringInDay": "24小時內過期",
+    "expiringInWeek": "7天內過期",
+    "oneHour": "1小時",
+    "twentyFourHours": "24小時",
+    "sevenDays": "7天",
+    "noChecksFound": "在所選時間範圍內沒有找到即將過期的拼寫檢查。",
+    "originalText": "原始文本",
+    "correctedText": "更正後文本",
+    "details": "詳細信息",
+    "language": "語言",
+    "containsErrors": "包含錯誤",
+    "no": "否",
+    "yes": "是",
+    "expires": "過期時間"
+  },
+  "longestErrorFreeCheck": {
+    "title": "最長無錯誤文本",
+    "noErrorFreeChecks": "未找到無錯誤的拼寫檢查。",
+    "text": "文本 ({{length}} 個字符)：",
+    "details": "詳細信息",
+    "language": "語言",
+    "created": "創建時間"
+  },
+  "randomCheck": {
+    "title": "隨機拼寫檢查",
+    "noChecksFound": "未找到拼寫檢查。",
+    "originalText": "原始文本",
+    "correctedText": "更正後文本",
+    "details": "詳細信息",
+    "language": "語言",
+    "containsErrors": "包含錯誤",
+    "no": "否",
+    "yes": "是",
+    "created": "創建時間"
+  }
+}
